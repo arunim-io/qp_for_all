@@ -1,6 +1,6 @@
-[submodule 'api']
+[submodule "api"]
 path=backend
 url=https://github.com/arunim-io/qp-for-all-api
-[submodule 'app']
+[submodule "app"]
 path=app
 url=https://github.com/arunim-io/qp-for-all-app
